@@ -1,0 +1,5 @@
+Current URL :  https://playwrightlab.github.io/
+Current Title :  PlayLab — Playwright Practice Arena
+Validation for name is :  Name is required
+Validation for email is :  Valid email is required
+Validation for password is :  Password must be at least 8 characters

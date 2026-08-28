@@ -1,0 +1,8 @@
+https://testautomationpractice.blogspot.com/
+Automation Testing Practice
+Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 9157,
+  [Symbol(trigger_async_id_symbol)]: 8841,
+  [Symbol(kResourceStore)]: undefined
+}

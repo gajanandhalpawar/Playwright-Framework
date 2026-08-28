@@ -1,0 +1,12 @@
+Current URL :  https://playwrightlab.github.io/
+Current Title :  PlayLab — Playwright Practice Arena
+Title of shopping screen is :  Shopping
+Product present in cart :  
+        
+          Lamborghini Huracan
+          ₹3,21,00,000
+        
+        ×
+      
+Coupan applied : SPEED20
+Coupan applied message : Coupon "SPEED20" applied! 20% off automobiles

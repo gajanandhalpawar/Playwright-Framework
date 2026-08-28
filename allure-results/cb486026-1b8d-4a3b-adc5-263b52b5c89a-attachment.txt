@@ -1,0 +1,8 @@
+Current URL :  https://playwrightlab.github.io/
+Current Title :  PlayLab — Playwright Practice Arena
+Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 13994,
+  [Symbol(trigger_async_id_symbol)]: 13609,
+  [Symbol(kResourceStore)]: undefined
+}

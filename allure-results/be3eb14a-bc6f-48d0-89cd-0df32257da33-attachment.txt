@@ -1,0 +1,15 @@
+Current URL :  https://playwrightlab.github.io/
+Current Title :  PlayLab — Playwright Practice Arena
+Validation for name is :  Name is required
+Validation for email is :  Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 11287,
+  [Symbol(trigger_async_id_symbol)]: 11286,
+  [Symbol(kResourceStore)]: undefined
+}
+Validation for password is :  Promise {
+  <pending>,
+  [Symbol(async_id_symbol)]: 11307,
+  [Symbol(trigger_async_id_symbol)]: 11306,
+  [Symbol(kResourceStore)]: undefined
+}
