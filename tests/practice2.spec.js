@@ -41,7 +41,7 @@ test("Register a new user", async({page})=>{
     console.log("After submit form message is : ", txtmsg)
     await expect(successmsg).toHaveText(" Registration successful! Welcome aboard.")
 
-    
+    //checking
 })
 
 
