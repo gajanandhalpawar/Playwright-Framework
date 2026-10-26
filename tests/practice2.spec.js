@@ -113,4 +113,22 @@ test("Handle Alert", async ({page})=>{
  
 })
 
-//test.only("Handeling tab")
+test.only("switch tab", async ({page, context})=>{
+    await page.goto("https://qaplayground.com/");
+    await page.getByTestId("practice-card-multi-tab-windows").click();
+    const newpagePromise = context.waitForEvent('page');
+    await page.locator("#tw-tab-a").click();
+    const newPage = await newpagePromise
+    await page.waitForLoadState();
+
+    const newpageURL = await newPage.url();
+    const newPageTitle = await newPage.title();
+    console.log(newpageURL);
+    console.log(newPageTitle);
+
+    await page.bringToFront();
+
+   await page.waitForTimeout(5000)
+
+   console.log("original page")
+})
